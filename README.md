@@ -12,7 +12,7 @@ Clone of [mint.com signup page](https://accounts.intuit.com/signup.html?offering
 
 ## Live Demo
 
-[Live Demo Link](https://vanheaven-ui.github.io/signup-page)
+[Live Demo Link](https://mikearaya.github.io/signup-form)
 
 ## Getting Started
 
